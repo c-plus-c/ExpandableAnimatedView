@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableLayout</string>
+    <string name="button_expand">Expand</string>
+    <string name="button_collapse">Collapse</string>
+</resources>
